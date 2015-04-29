@@ -1,7 +1,8 @@
 package maco;
 
 public class Camisa extends Prenda {
-	
+	//holsssssssssssssssssss
+	//asdasdsa
 	
     public Camisa(boolean esImportada)
     {
